@@ -1,0 +1,16 @@
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\University.Data.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\University.Data.pdb
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\FluentNHibernate.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\ICM.JHB.Utility.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\Iesi.Collections.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\NHibernate.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\ServiceModelEx.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\Ninject.Core.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\log4net.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\ICM.JHB.Utility.pdb
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\bin\Debug\Ninject.Core.xml
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\obj\Debug\University.Data.csprojAssemblyReference.cache
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\obj\Debug\University.Data.csproj.CoreCompileInputs.cache
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\obj\Debug\University.Data.csproj.CopyComplete
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\obj\Debug\University.Data.dll
+C:\Users\Neo.mkwanazi\source\repos\University\University.Data\obj\Debug\University.Data.pdb
